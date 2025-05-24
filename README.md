@@ -1,7 +1,4 @@
 
----
-
-````markdown
 # Slider WhatsApp
 
 ## Deskripsi
