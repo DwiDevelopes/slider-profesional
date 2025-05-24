@@ -19,7 +19,7 @@
 
 ## Pratinjau
 
-![Contoh Slider WhatsApp](preview.png)
+<img src ="Screenshot 2025-05-24 143945.png">
 
 ---
 
